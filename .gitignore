@@ -1,0 +1,14 @@
+# Data files
+311_reports/
+311_shapefile/
+NYPD/
+agency/
+community_boards/
+
+# Submission files
+ksha_assignment_2_submission/
+
+# Temp files
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
