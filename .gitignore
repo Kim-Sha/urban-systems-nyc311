@@ -12,3 +12,6 @@ ksha_assignment_2_submission/
 .DS_Store
 __pycache__/
 .ipynb_checkpoints/
+
+# Secret files
+.env
