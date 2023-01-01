@@ -1,5 +1,8 @@
 # NYC 311 Reporting
 
+**Checkout my blog post series on this topic here:**
+- **[Exploring NYC 311, Part I](https://kim-sha.github.io/urban-systems-nyc311/part_1/)**
+
 Some of the most important but largely invisible systems in cities are what we call "soft systems", the social, cultural and economic networks that shape the physical and human side of cities. This repo tracks EDA and explorations around a particularly salient system for residents of NYC: the 311 reporting service. The goal is to identify and map the components that make up the system, including its network structure, agents, nodes and flows.
 
 ![ArcGIS Map](assets/311_snapshot.png)
